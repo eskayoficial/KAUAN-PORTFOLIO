@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "platform": "youtube",
+    "videoId": "5Wk94Rj6l_c",
+    "title": "Destruindo tudo na grande final do torneio Pokémon selvagem",
+    "category": "games",
+    "categoryLabel": "Pokémon · Gameplay",
+    "status": "confirmado",
+    "poster": "pokemon.svg"
+  },
+  {
+    "id": 2,
+    "platform": "youtube",
+    "videoId": "VSvw_f1H7KU",
+    "title": "Montei o time mais promissor do mundo no FC 27",
+    "category": "futebol",
+    "categoryLabel": "FC 27 · Futebol",
+    "status": "confirmado",
+    "poster": "fc27.svg"
+  },
+  {
+    "id": 3,
+    "platform": "youtube",
+    "videoId": "qlpf7iXkWCM",
+    "title": "Cristiano, mas a roleta decide sua carreira (em 2004)",
+    "category": "futebol",
+    "categoryLabel": "Futebol · Desafio",
+    "status": "confirmado",
+    "poster": "cristiano.svg"
+  },
+  {
+    "id": 4,
+    "platform": "youtube",
+    "videoId": "_gOeTNcv9e4",
+    "title": "SECRETO! GARTEN of BANBAN TRAILER OFICIAL! MONSTROS REVELADOS e SEGREDOS! Garten of Banban 2",
+    "category": "games",
+    "categoryLabel": "Games · Garten of Banban",
+    "status": "confirmado",
+    "poster": "projeto04.svg"
+  },
+  {
+    "id": 5,
+    "platform": "tiktok",
+    "videoId": "7661674160631926024",
+    "author": "fcdedeco",
+    "title": "Chamei o campeão do mundo para evoluir o Gullit no eFootball 2026",
+    "category": "futebol",
+    "categoryLabel": "TikTok · eFootball",
+    "status": "confirmado",
+    "likes": "85.5K"
+  },
+  {
+    "id": 6,
+    "platform": "tiktok",
+    "videoId": "7686594611799788808",
+    "author": "eskayoficial",
+    "title": "Como baixar o mod Cobbleverso (Minecraft + Pokémon)",
+    "category": "games",
+    "categoryLabel": "TikTok · Minecraft",
+    "status": "confirmado",
+    "likes": "2.4K"
+  },
+  {
+    "id": 7,
+    "platform": "tiktok",
+    "videoId": "7664231142744231176",
+    "author": "fcdedeco",
+    "title": "O ChatGPT demorou pra acertar o Neymar no eFootball 2026",
+    "category": "futebol",
+    "categoryLabel": "TikTok · eFootball",
+    "status": "confirmado",
+    "likes": "2.1K"
+  },
+  {
+    "id": 8,
+    "platform": "tiktok",
+    "videoId": "7659094190055378197",
+    "author": "nuzzifc",
+    "title": "Qual a MELHOR capa de FIFA?",
+    "category": "futebol",
+    "categoryLabel": "TikTok · EA FC",
+    "status": "confirmado",
+    "likes": "211K"
+  },
+  {
+    "id": 9,
+    "platform": "tiktok",
+    "videoId": "7661316756031474964",
+    "author": "nuzzifc",
+    "title": "Qual a MELHOR música dos FIFAs?",
+    "category": "futebol",
+    "categoryLabel": "TikTok · EA FC",
+    "status": "confirmado",
+    "likes": "75.9K"
+  }
+]
